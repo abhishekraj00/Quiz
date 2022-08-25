@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    margin: 10px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.quiz-box{
+   width: 300px;
+   height: 500px;
+   box-shadow: 4px 4px 30px;
+   border: 2px solid rgb(0, 0, 0);
+}
+
+.question-box{
+   margin: 20px 10px;
+   width: 300px;
+   height: 500px;
+   /* border: 2px solid rgb(0, 0, 0); */
+}
+
+.opt{
+    padding: 5px 30px ;
+}
